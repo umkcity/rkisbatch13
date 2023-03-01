@@ -2,13 +2,13 @@ class Addition
 {
 	public static void main(String args[])
 	{
-		int n1,n2,res;
+		int number1,number2,res;
 		Scanner s=new Scanner(System.in);
-		System.out.println("Enter n1 value");
-		n1=s.nextInt();
-		System.out.println("Enter n2 vlue");
-		n2=s.nextInt();
-		res=n1+n2;
+		System.out.println("Enter number1 value");
+		number1=s.nextInt();
+		System.out.println("Enter number2 vlue");
+		number2=s.nextInt();
+		res=number1+number2;
 		System.out.println("The result is "+res);
 	}
 }
