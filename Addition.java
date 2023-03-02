@@ -12,5 +12,6 @@ class Addition
 		System.out.println("The result is "+res);
 		res=numeber1*number2;
 		System.out.println("The result od product is : "+res);
+		System.out.println("This is first line");
 	}
 }
