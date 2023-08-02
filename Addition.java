@@ -11,6 +11,8 @@ class Addition
 		res=number1+number2;
 		System.out.println("The result is "+res);
 		res=numeber1*number2;
-		System.out.println("The result od product is : "+res);
+		System.out.println("The result of product is : "+res);
+		res=numeber1-number2;
+		System.out.println("The result of subtraction is : "+res);		
 	}
 }
